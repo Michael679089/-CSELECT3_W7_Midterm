@@ -40,3 +40,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ---- 
 
 Hopefully nothing bad happened to my git remote after I rename the project in github. 
+
+Hopefully for the 2nd time it doesn't change the git.

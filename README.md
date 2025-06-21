@@ -35,10 +35,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+---
 
-
----- 
-
-Hopefully nothing bad happened to my git remote after I rename the project in github. 
+Hopefully nothing bad happened to my git remote after I rename the project in github.
 
 Hopefully for the 2nd time it doesn't change the git.
+
+do node scripts/setup.js to run the postgresql database.
